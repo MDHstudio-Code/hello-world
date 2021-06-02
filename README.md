@@ -6,3 +6,5 @@ To see a quickstart guideline, visit https://guides.github.com/activities/hello-
 
 # notice
 If you have any questions about commands in github, try and test in this repository.
+
+If you make or commit change to any repositories in MDHStudio, don't forget to write a commit message. Explain what you've done!
